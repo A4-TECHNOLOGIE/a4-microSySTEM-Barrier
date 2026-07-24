@@ -1,0 +1,30 @@
+{
+    "name": "a4-microSySTEM-Barrier",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "custom.ts",
+		"_locales/a4-microSySTEM-Barrier-strings.json",
+		"_locales/a4-microSySTEM-Barrier-jsdoc-strings.json",
+		"_locales/fr/a4-microSySTEM-Barrier-strings.json",
+		"_locales/fr/a4-microSySTEM-Barrier-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.22",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}

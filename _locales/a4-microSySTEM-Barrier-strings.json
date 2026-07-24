@@ -1,0 +1,19 @@
+{
+  "a4_microSySTEM_Barrier.Colors.Black|block": "black",
+  "a4_microSySTEM_Barrier.Colors.Blue|block": "blue",
+  "a4_microSySTEM_Barrier.Colors.Green|block": "green",
+  "a4_microSySTEM_Barrier.Colors.Red|block": "red",
+  "a4_microSySTEM_Barrier.Colors.White|block": "white",
+  "a4_microSySTEM_Barrier.initRFID|block": "initialize RFID",
+  "a4_microSySTEM_Barrier.lightsOFF|block": "light off",
+  "a4_microSySTEM_Barrier.presenceSensor|block": "presence detected",
+  "a4_microSySTEM_Barrier.readID|block": "read RFID tag",
+  "a4_microSySTEM_Barrier.rgb|block": "turn on the light in red %red|green %green|blue %blue",
+  "a4_microSySTEM_Barrier.setRingColor|block": "light on in %color",
+  "a4_microSySTEM_Barrier.setServoAngle|block": "set servo angle %angle",
+  "a4_microSySTEM_Barrier.barrier|block": "%action barrier",
+  "a4_microSySTEM_Barrier.Action.open|block": "open",
+  "a4_microSySTEM_Barrier.Action.close|block": "close",
+  "a4_microSySTEM_Barrier|block": "A4 microSySTEM Barrier",
+  "{id:category}a4_microSySTEM_Barrier": "A4_microSySTEM_Barrier"
+}
