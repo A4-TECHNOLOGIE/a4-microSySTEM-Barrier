@@ -1,0 +1,16 @@
+{
+  "a4_microSySTEM_Barrier.initRFID": "Initialise le module RFID",
+  "a4_microSySTEM_Barrier.lightsOFF": "Éteint la LED",
+  "a4_microSySTEM_Barrier.presenceSensor": "Renvoie vrai si un obstacle est détecté devant le capteur et faux dans le cas contraire",
+  "a4_microSySTEM_Barrier.readID": "Renvoie la valeur du badge RFID",
+  "a4_microSySTEM_Barrier.rgb": "Définit la couleur de la LED à partir des composantes rouge, verte et bleue",
+  "a4_microSySTEM_Barrier.rgb|param|blue": "Valeur du canal bleu entre 0 et 255, ex. : 255",
+  "a4_microSySTEM_Barrier.rgb|param|green": "Valeur du canal vert entre 0 et 255, ex. : 255",
+  "a4_microSySTEM_Barrier.rgb|param|red": "Valeur du canal rouge entre 0 et 255, ex. : 255",
+  "a4_microSySTEM_Barrier.setRingColor": "Allume la LED dans la couleur choisie",
+  "a4_microSySTEM_Barrier.setRingColor|param|color": "Couleur de la LED",
+  "a4_microSySTEM_Barrier.barrier": "Ouvre ou ferme la barrière avec les positions prédéfinies du servomoteur",
+  "a4_microSySTEM_Barrier.barrier|param|action": "Ouvrir règle le servo à 115 degrés et fermer à 5 degrés",
+  "a4_microSySTEM_Barrier.setServoAngle": "Règle l'angle du servomoteur qui commande la barrière",
+  "a4_microSySTEM_Barrier.setServoAngle|param|angle": "Angle en degrés entre 0 et 180"
+}
