@@ -1,6 +1,8 @@
 {
-    "name": "a4-microSySTEM-Barrier",
-    "description": "",
+    "name": "a4-microsystem-barrier",
+    "description": "MakeCode extension for the A4 Technologie microSySTEM-Barrier educational parking and toll gate model.",
+    "license": "MIT",
+    "public": true,
     "dependencies": {
         "core": "*",
         "radio": "*",
@@ -11,10 +13,10 @@
         "main.ts",
         "README.md",
         "custom.ts",
-		"_locales/a4-microSySTEM-Barrier-strings.json",
-		"_locales/a4-microSySTEM-Barrier-jsdoc-strings.json",
-		"_locales/fr/a4-microSySTEM-Barrier-strings.json",
-		"_locales/fr/a4-microSySTEM-Barrier-jsdoc-strings.json"
+        "_locales/a4-microSySTEM-Barrier-strings.json",
+        "_locales/a4-microSySTEM-Barrier-jsdoc-strings.json",
+        "_locales/fr/a4-microSySTEM-Barrier-strings.json",
+        "_locales/fr/a4-microSySTEM-Barrier-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
